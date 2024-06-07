@@ -1,0 +1,12 @@
+[global]
+target = "C:\dotfiles\"
+
+["zyedida/micro"]
+["zyedida/eget"]
+["ahmetb/kubectx"]
+["stern/stern"]
+["junegunn/fzf"]
+["jqlang/jq"]
+["burntsushi/ripgrep"]
+["sharkdp/bat"]
+["sharkdp/fd"]
